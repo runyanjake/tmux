@@ -19,3 +19,11 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 tmux source ~/.tmux.conf
 ```
 
+## Plugins Notes
+
+### TPM
+Tmux Package Manager is de facto package manager for tmux.
+
+## Shortcut Reference
+`<PREFIX>` key combo is `C-a` by default (Ctrl + a), changed from standard `C-b`.
+```
